@@ -1,0 +1,9 @@
+/Users/pkryloff/Documents/курсовая/FinLitBot/BotsLibrary/bin/Debug/netcoreapp3.1/BotsLibrary.deps.json
+/Users/pkryloff/Documents/курсовая/FinLitBot/BotsLibrary/bin/Debug/netcoreapp3.1/BotsLibrary.dll
+/Users/pkryloff/Documents/курсовая/FinLitBot/BotsLibrary/bin/Debug/netcoreapp3.1/BotsLibrary.pdb
+/Users/pkryloff/Documents/курсовая/FinLitBot/BotsLibrary/obj/Debug/netcoreapp3.1/BotsLibrary.csprojAssemblyReference.cache
+/Users/pkryloff/Documents/курсовая/FinLitBot/BotsLibrary/obj/Debug/netcoreapp3.1/BotsLibrary.csproj.CoreCompileInputs.cache
+/Users/pkryloff/Documents/курсовая/FinLitBot/BotsLibrary/obj/Debug/netcoreapp3.1/BotsLibrary.AssemblyInfoInputs.cache
+/Users/pkryloff/Documents/курсовая/FinLitBot/BotsLibrary/obj/Debug/netcoreapp3.1/BotsLibrary.AssemblyInfo.cs
+/Users/pkryloff/Documents/курсовая/FinLitBot/BotsLibrary/obj/Debug/netcoreapp3.1/BotsLibrary.dll
+/Users/pkryloff/Documents/курсовая/FinLitBot/BotsLibrary/obj/Debug/netcoreapp3.1/BotsLibrary.pdb

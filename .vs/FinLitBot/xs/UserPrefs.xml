@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{28F3D3E6-CEAC-47A1-B0F8-4C78F0AD31BF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BotsLibrary/Keyboards.cs">
+    <Files>
+      <File FileName="FinLitBot/Program.cs" Line="688" Column="1" />
+      <File FileName="BotsLibrary/Data.cs" Line="13" Column="35" />
+      <File FileName="BotsLibrary/UserInfo.cs" Line="40" Column="28" />
+      <File FileName="BotsLibrary/Expenses.cs" Line="1" Column="1" />
+      <File FileName="BotsLibrary/Keyboards.cs" Line="36" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FinLitBot" expanded="True">
+            <Node name="BotsLibrary" expanded="True">
+              <Node name="Keyboards.cs" selected="True" />
+            </Node>
+            <Node name="FinLitBot" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FinLitBot PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

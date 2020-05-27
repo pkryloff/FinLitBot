@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/pkryloff/Documents/курсовая/FinLitBot/BotsLibrary/BotsLibrary.csproj": {}
+  },
+  "projects": {
+    "/Users/pkryloff/Documents/курсовая/FinLitBot/BotsLibrary/BotsLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/pkryloff/Documents/курсовая/FinLitBot/BotsLibrary/BotsLibrary.csproj",
+        "projectName": "BotsLibrary",
+        "projectPath": "/Users/pkryloff/Documents/курсовая/FinLitBot/BotsLibrary/BotsLibrary.csproj",
+        "packagesPath": "/Users/pkryloff/.nuget/packages/",
+        "outputPath": "/Users/pkryloff/Documents/курсовая/FinLitBot/BotsLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/pkryloff/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Telegram.Bot": {
+              "target": "Package",
+              "version": "[15.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinLitBot", "FinLitBot\FinLitBot.csproj", "{28F3D3E6-CEAC-47A1-B0F8-4C78F0AD31BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotsLibrary", "BotsLibrary\BotsLibrary.csproj", "{832D4E9B-4DAB-4D41-84D4-851409FE37A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28F3D3E6-CEAC-47A1-B0F8-4C78F0AD31BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28F3D3E6-CEAC-47A1-B0F8-4C78F0AD31BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28F3D3E6-CEAC-47A1-B0F8-4C78F0AD31BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28F3D3E6-CEAC-47A1-B0F8-4C78F0AD31BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{832D4E9B-4DAB-4D41-84D4-851409FE37A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{832D4E9B-4DAB-4D41-84D4-851409FE37A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{832D4E9B-4DAB-4D41-84D4-851409FE37A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{832D4E9B-4DAB-4D41-84D4-851409FE37A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

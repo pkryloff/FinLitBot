@@ -1,0 +1,17 @@
+/Users/pkryloff/Documents/курсовая/FinLitBot/FinLitBot/bin/Debug/netcoreapp3.1/FinLitBot.deps.json
+/Users/pkryloff/Documents/курсовая/FinLitBot/FinLitBot/bin/Debug/netcoreapp3.1/FinLitBot.runtimeconfig.json
+/Users/pkryloff/Documents/курсовая/FinLitBot/FinLitBot/bin/Debug/netcoreapp3.1/FinLitBot.runtimeconfig.dev.json
+/Users/pkryloff/Documents/курсовая/FinLitBot/FinLitBot/bin/Debug/netcoreapp3.1/FinLitBot.dll
+/Users/pkryloff/Documents/курсовая/FinLitBot/FinLitBot/bin/Debug/netcoreapp3.1/FinLitBot.pdb
+/Users/pkryloff/Documents/курсовая/FinLitBot/FinLitBot/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/pkryloff/Documents/курсовая/FinLitBot/FinLitBot/bin/Debug/netcoreapp3.1/Telegram.Bot.dll
+/Users/pkryloff/Documents/курсовая/FinLitBot/FinLitBot/bin/Debug/netcoreapp3.1/BotsLibrary.dll
+/Users/pkryloff/Documents/курсовая/FinLitBot/FinLitBot/bin/Debug/netcoreapp3.1/BotsLibrary.pdb
+/Users/pkryloff/Documents/курсовая/FinLitBot/FinLitBot/obj/Debug/netcoreapp3.1/FinLitBot.csprojAssemblyReference.cache
+/Users/pkryloff/Documents/курсовая/FinLitBot/FinLitBot/obj/Debug/netcoreapp3.1/FinLitBot.csproj.CoreCompileInputs.cache
+/Users/pkryloff/Documents/курсовая/FinLitBot/FinLitBot/obj/Debug/netcoreapp3.1/FinLitBot.AssemblyInfoInputs.cache
+/Users/pkryloff/Documents/курсовая/FinLitBot/FinLitBot/obj/Debug/netcoreapp3.1/FinLitBot.AssemblyInfo.cs
+/Users/pkryloff/Documents/курсовая/FinLitBot/FinLitBot/obj/Debug/netcoreapp3.1/FinLitBot.csproj.CopyComplete
+/Users/pkryloff/Documents/курсовая/FinLitBot/FinLitBot/obj/Debug/netcoreapp3.1/FinLitBot.dll
+/Users/pkryloff/Documents/курсовая/FinLitBot/FinLitBot/obj/Debug/netcoreapp3.1/FinLitBot.pdb
+/Users/pkryloff/Documents/курсовая/FinLitBot/FinLitBot/obj/Debug/netcoreapp3.1/FinLitBot.genruntimeconfig.cache
